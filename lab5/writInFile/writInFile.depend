@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731500063 source:d:\work\ploblem solving\lab5\writinfile\main.cpp
+	<iostream>
+	<cstdio>
+	<ctime>
+

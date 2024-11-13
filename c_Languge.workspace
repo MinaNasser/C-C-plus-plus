@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="c_languge">
+		<Project filename="lab 4/task 1/task 1.cbp" />
+		<Project filename="lab 4/task2/task2.cbp" />
+		<Project filename="lab 4/task2 Bounas/task2 Bounas.cbp" />
+		<Project filename="lab 4/task3/task3.cbp" />
+		<Project filename="lab 4/task4/task4.cbp" />
+		<Project filename="lab 4/task5/task5.cbp" />
+		<Project filename="lab 4/task6/task6.cbp" />
+		<Project filename="lab5/task1/task1.cbp" />
+		<Project filename="lab5/task3Oper/task3Oper.cbp" />
+		<Project filename="lab5/clockwithFor/clockwithFor.cbp" />
+		<Project filename="lab5/even_for/even_for.cbp" />
+		<Project filename="lab5/swapWithPointer/swapWithPointer.cbp" />
+		<Project filename="lab5/writInFile/writInFile.cbp" />
+		<Project filename="lab5/clock/clock.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

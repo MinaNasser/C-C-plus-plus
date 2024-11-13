@@ -1,0 +1,10 @@
+Addition => Result: 5 and 3 = 8  at Wed Nov 13 14:14:29 2024
+
+Subtraction => Result: 33 and 2 = 31  at Wed Nov 13 14:14:37 2024
+
+Multiplication => Result: 20 and 30 = 600  at Wed Nov 13 14:14:45 2024
+
+Addition => Result: 3 and 5 = 8  at Wed Nov 13 14:37:44 2024
+
+Multiplication => Result: 44 and 88 = 3872  at Wed Nov 13 14:37:56 2024
+
