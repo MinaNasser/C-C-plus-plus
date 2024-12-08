@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1731845950 source:d:\work\ploblem solving\lab6\hestory\main.cpp
+	<iostream>
+	<cstdio>
+	<ctime>
+

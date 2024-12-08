@@ -15,5 +15,14 @@
 		<Project filename="lab5/swapWithPointer/swapWithPointer.cbp" />
 		<Project filename="lab5/writInFile/writInFile.cbp" />
 		<Project filename="lab5/clock/clock.cbp" />
+		<Project filename="lab6/hestory/hestory.cbp" />
+		<Project filename="lab6/Student/Student.cbp" />
+		<Project filename="lab6/array_of_Array/array_of_Array.cbp" />
+		<Project filename="lab7/task1/task1.cbp" />
+		<Project filename="lab7/HestoryStruct/HestoryStruct.cbp" />
+		<Project filename="lab7/size/size.cbp" />
+		<Project filename="lab7/company/company.cbp" />
+		<Project filename="lab7/namem/namem.cbp" />
+		<Project filename="lab7/LinkedList/LinkedList.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>

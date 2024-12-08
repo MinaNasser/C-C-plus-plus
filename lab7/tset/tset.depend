@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1732299648 source:d:\work\ploblem solving\lab7\tset\main.cpp
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

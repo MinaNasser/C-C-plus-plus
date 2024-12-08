@@ -10,3 +10,7 @@ Multiplication : 5 and 5  = 25  AT ::  Wed Nov 13 18:47:24 2024
   :: 
 Division by Zero : 5 and 0  = 4214975  AT ::  Wed Nov 13 18:48:56 2024
   :: 
+Addition : 2 and 2  = 4  AT ::  Sun Nov 17 14:14:36 2024
+  :: 
+Addition : 2 and 3  = 5  AT ::  Sun Nov 17 14:14:57 2024
+  :: 
